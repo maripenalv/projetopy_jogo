@@ -10,6 +10,7 @@ Codado na linguagem Python.
    - O número a ser adivinhado é um inteiro natural aleatório entre 1 e 10.
    - O usuário tem um total de três tentativas para adivinhar o número correto.
    - O jogo fornece dicas se a tentativa estiver próxima do número correto.
+   - O jogador pode escolher jogar uma nova partida.
    - O jogo mantém um registro dos pontos acumulados em cada partida e exibe o placar total quando o usuário decide encerrar o programa.
 
  ### Adendo 
